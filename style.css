@@ -1,0 +1,71 @@
+@media screen and (max-width: 1020px) {
+        
+    #container, #header, #content, #footer 
+    {
+        float: none;
+        width: auto;
+    }
+    body
+    {
+        background-image: linear-gradient(indianred,darkred);
+        background-repeat:no-repeat;
+        background-color:darkred;
+    }
+
+    .leaf { 
+      width: 750px; height: 60px;
+      background-color: #A0DE21; 
+      -moz-border-radius: 100px 0px;
+      -webkit-border-radius: 100px 0px;
+      border-radius: 100px 0px;
+      border-image-slice: 5;
+  
+      
+        }
+    
+.dataFlow {
+    margin: 20px;
+    color:black;
+    font-size: 15px;        
+    }
+
+.dataLabel {
+    padding-left:80px;
+    padding-top: 15px;
+    
+    }
+    
+            //mobile settings
+        }
+    //normal computer settings
+    blank{}/*what? why?*/
+    body
+    {
+        background-image: linear-gradient(indianred,darkred);
+        background-repeat:no-repeat;
+        background-color:darkred;
+        color: antiquewhite;
+    }
+        
+.leaf {
+      float: left;
+      width: 95px; height: 70px;
+      background-color: #A0DE21; 
+      -moz-border-radius: 100px 0px;
+      -webkit-border-radius: 100px 0px;
+      border-radius: 100px 0px;
+      border-image-slice: 5;
+      text-align: center;
+      text-indent: inherit;
+        }
+
+.dataFlow {
+    margin: 20px;
+    color:black;
+    font-size: 16px   
+          }
+
+.dataLabel {
+    padding-left:80px;
+    padding-top: 15px;
+}

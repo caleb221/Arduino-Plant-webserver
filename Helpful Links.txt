@@ -1,0 +1,20 @@
+// use functions 
+// libraries: dht, esp8266, nothing for hygrometer
+
+//===============================================
+
+// USE WIFI MODULE MEMORY:
+
+//https://www.youtube.com/watch?v=pfJROpQg-Is
+
+//https://www.geekstips.com/esp8266-arduino-tutorial-iot-code-example
+/
+//https://tttapa.github.io/ESP8266/Chap11%20-%20SPIFFS.html
+
+//https://www.instructables.com/id/Using-ESP8266-SPIFFS
+/
+//https://www.youtube.com/watch?v=pfJROpQg-Is&t=4s
+
+//http://www.ulasdikme.com/projects/esp8266/esp8266_ajax_websocket.php
+
+//================================================
