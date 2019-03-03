@@ -72,7 +72,7 @@ All Hardware required for this project:
  
  Some stuff to do in the future (if time permits)
  
-      add some data management system (it currently does not save any data)
+      Add a data management system (it currently does not save any data)
  
       Improve Analytics 
       
