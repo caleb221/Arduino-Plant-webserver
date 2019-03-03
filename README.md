@@ -3,9 +3,13 @@ An Arduino/ESP8266 based webserver to watch over a plant
 Hello! 
 Here is a small stand alone plant watching application I built for fun!
 An Arduino Nano is equipped with:
+  
       A DHT22 Temperature/Humidity sensor
+      
       A Soil Hygrometer
+      
       A photoresistor
+      
       And an ESP8266 Webserver
 
 The project is stand alone meaning that no external web resources are being used.
@@ -23,27 +27,46 @@ but here is the basic breakdown of how the circuit is connected:
 
 ARDUINO:
     DHT22--> D7,VCC(5V), GND
+    
     Hygrometer--> A0, VCC (3.3V), GND
+    
     PhotoResistor--> A0, VCC (5V), GND
+    
     ESP8266 --> 3.3V (from AMS117 voltage regulator), GND, D10 (RX) D11 (TX)
+    
 ESP8266:
     connected in the normal way:
+    
       TX--> D11 (arduino) **TX for programming mode
+      
       RX--> D10 (arduino) **RX for programming mode
+      
       3.3V -->AMS117 (5V pin from arduino)
+      
       Ch_PD --> AMS117 3.3V
+      
       GND--> GND (common)
       
 All Hardware required for this project:
+
       Arduino Nano
+      
       ESP8266 + breakout board (not required but helpful)
+      
       Hygrometer + breakout board
+      
       DHT22 breakout board
+      
       PhotoResistor (breakout board)
+      
       AMS117 3.3V regulator
+      
       Jumper wires
+      
       Soldering iron/Solder
+      
       Battery pack/power source
+      
       Home router and admin access (to open the webapp)
       
  
