@@ -71,12 +71,17 @@ All Hardware required for this project:
       
  
  Some stuff to do in the future (if time permits)
+ 
       add some data management system (it currently does not save any data)
+ 
       Improve Analytics 
+      
       --> currently there are a few if statements 
             that convert the raw input to something 
             more readable by a human, but as with everything it can be improved.
+            
       Implement websockets instead of AJAX polling
+      
  If you have any suggestions, questions, comments or concerns please feel free to let me know!
  Thanks for looking!
  -Caleb
