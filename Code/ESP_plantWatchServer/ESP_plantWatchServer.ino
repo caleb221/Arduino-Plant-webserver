@@ -26,7 +26,7 @@ ESP8266WebServer server(80); // 80 is the port number
 //=====================================================
 
 
-const char *ssid = "Steal_your_cookies";
+const char *ssid = "********";
 const char *password = "password";
 int hydroLevel=0;
 int lightLevel;
