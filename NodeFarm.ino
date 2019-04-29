@@ -67,8 +67,8 @@ float temp =0;
 //int isFood=0;
 //===========================
 //      Server stuff
-const char* ssid="Steal_your_cookies";
-const char* passw="password";
+const char* ssid="YOUR_WIFI_NAME";
+const char* passw="YOUR_WIFI_PASSWORD";
 String html,javaScript,css;
 //===========================
 
