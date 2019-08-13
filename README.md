@@ -79,10 +79,10 @@ All Hardware required for this project:
       --> currently there are a few if statements 
             that convert the raw input to something 
             more readable by a human, but as with everything it can be improved.
-            --> DONE! please see NodeFarm.ino for a description of the JSON 
+            --> DONE! please see The NodeMCU-Plant-watch for a description of the updated module 
                       data stream over the websocket
       Implement websockets instead of AJAX polling
-      --> DONE! please see NodeFarm.ino for updated code and hardware!
+      --> DONE! please see nodeMCU-plant-watch for updated code and hardware!
  If you have any suggestions, questions, comments or concerns please feel free to let me know!
  Thanks for looking!
  -Caleb
